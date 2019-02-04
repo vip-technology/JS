@@ -1,0 +1,290 @@
+[
+  {
+    "id" : "1",
+    "background": {
+      "image": "/wp-content/themes/wewp/templates/assets/images/homepage/generic-resource-card/building_with_triangle.jpg",
+      "alt": "Blog Post"
+    },
+    "post_date": "OCTOBER 25, 2018",
+    "post_heading": "College of Marin and Blach Construction Celebrate Groundbreaking of Miwok Aquatic and Fitness Center on Indian Valley Campus",
+    "post_blurb": "Novato, Calif., - Blach Construction (Blach) was on-site at College of Marin’s (COM) Indian Valley Campus (IVC) for the… ",
+    "category" : "Articles",
+    "post_url": "#"
+  },
+  {
+    "id" : "4",
+    "background": {
+      "image": "/wp-content/themes/wewp/templates/assets/images/homepage/generic-resource-card/building_with_triangle.jpg",
+      "alt": "Blog Post"
+    },
+    "post_date": "OCTOBER 18, 2018",
+    "post_heading": "News title lorem ipsum dolor sit amet et consecteur",
+    "post_blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel nibh sit amet nunc tristique interdum id ac dui.",
+    "category" : "Articles",
+    "post_url": "#"
+  },
+  {
+    "id" : "13",
+    "background": {
+      "image": "/wp-content/themes/wewp/templates/assets/images/homepage/generic-resource-card/building_with_triangle.jpg",
+      "alt": "Blog Post"
+    },
+    "post_date": "September 12, 2018",
+    "post_heading": "College of Marin and Blach Construction Celebrate Groundbreaking of Miwok Aquatic and Fitness Center on Indian Valley Campus",
+    "post_blurb": "Novato, Calif., - Blach Construction (Blach) was on-site at College of Marin’s (COM) Indian Valley Campus (IVC) for the… ",
+    "category" : "Articles",
+    "post_url": "#"
+  },
+  {
+    "id" : "16",
+    "background": {
+      "image": "/wp-content/themes/wewp/templates/assets/images/homepage/generic-resource-card/building_with_triangle.jpg",
+      "alt": "Blog Post"
+    },
+    "post_date": " May 05, 2018",
+    "post_heading": "News title lorem ipsum dolor sit amet et consecteur",
+    "post_blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel nibh sit amet nunc tristique interdum id ac dui.",
+    "category" : "Articles",
+    "post_url": "#"
+  },
+  {
+    "id" : "2",
+    "background": {
+      "image": "/wp-content/themes/wewp/templates/assets/images/homepage/generic-resource-card/cup.svg",
+      "alt": "Blog Post"
+    },
+    "post_date": "November 3, 2017",
+    "post_heading": "Fremont Union High School District Breaks Ground on New Educational Options Buildings and Opens New High School… ",
+    "post_blurb": "Classroom Multiplex Utilizing Innovative Building Solution Folia Design-Build Team Blach Construction and Quattrocchi Kwok Architects Invented Folia to Efficiently Deliver Quality…",
+    "category" : "Press Releases",
+    "post_url": "#"
+  },
+  {
+    "id" : "14",
+    "background": {
+      "image": "/wp-content/themes/wewp/templates/assets/images/homepage/generic-resource-card/cup.svg",
+      "alt": "Blog Post"
+    },
+    "post_date": "July 18, 2017",
+    "post_heading": "Fremont Union High School District Breaks Ground on New Educational Options Buildings and Opens New High School… ",
+    "post_blurb": "Classroom Multiplex Utilizing Innovative Building Solution Folia Design-Build Team Blach Construction and Quattrocchi Kwok Architects Invented Folia to Efficiently Deliver Quality…",
+    "category" : "Press Releases",
+    "post_url": "#"
+  },
+  {
+    "id" : "17",
+    "background": {
+      "image": "/wp-content/themes/wewp/templates/assets/images/homepage/generic-resource-card/cup.svg",
+      "alt": "Blog Post"
+    },
+    "post_date": "April 08, 2017",
+    "post_heading": "Awards title lorem ipsum dolor sit amet et consecteur",
+    "post_blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel nibh sit amet nunc tristique interdum id ac dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel nibh sit amet nunc tristique interdum id. ",
+    "category" : "Press Releases",
+    "post_url": "#"
+  },
+  {
+    "id" : "5",
+    "background": {
+      "image": "/wp-content/themes/wewp/templates/assets/images/homepage/generic-resource-card/cup.svg",
+      "alt": "Blog Post"
+    },
+    "post_date": "February 13, 2017",
+    "post_heading": "Awards title lorem ipsum dolor sit amet et consecteur",
+    "post_blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel nibh sit amet nunc tristique interdum id ac dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel nibh sit amet nunc tristique interdum id. ",
+    "category" : "Press Releases",
+    "post_url": "#"
+  },
+  {
+    "id" : "3",
+    "background": {
+      "image": "/wp-content/themes/wewp/templates/assets/images/homepage/generic-resource-card/building_dr.jpg",
+      "alt": "Blog Post"
+    },
+    "post_date": "SEPTEMBER 28, 2016",
+    "post_heading": "Blach’s Folia Complex at Cupertino High School Wins Innovation Award from Silicon Valley Business Journal",
+    "post_blurb": "With its project partners, Blach is… proud to announce that the Silicon Valley Business Journal has named Fremont Union High School District’s Science… ",
+    "category" : "Articles",
+    "post_url": "#"
+  },
+  {
+    "id" : "18",
+    "background": {
+      "image": "/wp-content/themes/wewp/templates/assets/images/homepage/generic-resource-card/building_dr.jpg",
+      "alt": "Blog Post"
+    },
+    "post_date": "September 18, 2016",
+    "post_heading": "News title lorem ipsum dolor sit amet et consecteur",
+    "post_blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel nibh sit amet nunc tristique interdum id ac dui. ",
+    "category" : "Articles",
+    "post_url": "#"
+  },
+  {
+    "id" : "15",
+    "background": {
+      "image": "/wp-content/themes/wewp/templates/assets/images/homepage/generic-resource-card/building_dr.jpg",
+      "alt": "Blog Post"
+    },
+    "post_date": "July 28, 2016",
+    "post_heading": "Blach’s Folia Complex at Cupertino High School Wins Innovation Award from Silicon Valley Business Journal",
+    "post_blurb": "With its project partners, Blach is… proud to announce that the Silicon Valley Business Journal has named Fremont Union High School District’s Science… ",
+    "category" : "Articles",
+    "post_url": "#"
+  },
+  {
+    "id" : "6",
+    "background": {
+      "image": "/wp-content/themes/wewp/templates/assets/images/homepage/generic-resource-card/building_dr.jpg",
+      "alt": "Blog Post"
+    },
+    "post_date": "June 12, 2016",
+    "post_heading": "News title lorem ipsum dolor sit amet et consecteur",
+    "post_blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel nibh sit amet nunc tristique interdum id ac dui. ",
+    "category" : "Articles",
+    "post_url": "#"
+  },
+  {
+    "id" : "12",
+    "background": {
+      "image": "/wp-content/themes/wewp/templates/assets/images/homepage/generic-resource-card/building_dr.jpg",
+      "alt": "Blog Post"
+    },
+    "post_date": "December 27, 2015",
+    "post_heading": "News title lorem ipsum dolor sit amet et consecteur",
+    "post_blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel nibh sit amet nunc tristique interdum id ac dui. ",
+    "category" : "Articles",
+    "post_url": "#"
+  },
+  {
+    "id" : "7",
+    "background": {
+      "image": "/wp-content/themes/wewp/templates/assets/images/homepage/generic-resource-card/building_with_triangle.jpg",
+      "alt": "Blog Post"
+    },
+    "post_date": "OCTOBER 18, 2014",
+    "post_heading": "College of Marin and Blach Construction Celebrate Groundbreaking of Miwok Aquatic and Fitness Center on Indian Valley Campus",
+    "post_blurb": "Novato, Calif., - Blach Construction (Blach) was on-site at College of Marin’s (COM) Indian Valley Campus (IVC) for the… ",
+    "category" : "Articles",
+    "post_url": "#"
+  },
+  {
+    "id" : "19",
+    "background": {
+      "image": "/wp-content/themes/wewp/templates/assets/images/homepage/generic-resource-card/building_with_triangle.jpg",
+      "alt": "Blog Post"
+    },
+    "post_date": "July 23, 2014",
+    "post_heading": "College of Marin and Blach Construction Celebrate Groundbreaking of Miwok Aquatic and Fitness Center on Indian Valley Campus",
+    "post_blurb": "Novato, Calif., - Blach Construction (Blach) was on-site at College of Marin’s (COM) Indian Valley Campus (IVC) for the… ",
+    "category" : "Articles",
+    "post_url": "#"
+  },
+  {
+    "id" : "24",
+    "background": {
+      "image": "/wp-content/themes/wewp/templates/assets/images/homepage/generic-resource-card/building_dr.jpg",
+      "alt": "Blog Post"
+    },
+    "post_date": "March 28, 2015",
+    "post_heading": "News title lorem ipsum dolor sit amet et consecteur",
+    "post_blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel nibh sit amet nunc tristique interdum id ac dui. ",
+    "category" : "Articles",
+    "post_url": "#"
+  },
+  {
+    "id" : "8",
+    "background": {
+      "image": "/wp-content/themes/wewp/templates/assets/images/homepage/generic-resource-card/cup.svg",
+      "alt": "Blog Post"
+    },
+    "post_date": "OCTOBER 3, 2013",
+    "post_heading": "Fremont Union High School District Breaks Ground on New Educational Options Buildings and Opens New High School… ",
+    "post_blurb": "Classroom Multiplex Utilizing Innovative Building Solution Folia Design-Build Team Blach Construction and Quattrocchi Kwok Architects Invented Folia to Efficiently Deliver Quality…",
+    "category" : "Press Releases",
+    "post_url": "#"
+  },
+  {
+    "id" : "9",
+    "background": {
+      "image": "/wp-content/themes/wewp/templates/assets/images/homepage/generic-resource-card/building_dr.jpg",
+      "alt": "Blog Post"
+    },
+    "post_date": "SEPTEMBER 28, 2013",
+    "post_heading": "Blach’s Folia Complex at Cupertino High School Wins Innovation Award from Silicon Valley Business Journal",
+    "post_blurb": "With its project partners, Blach is… proud to announce that the Silicon Valley Business Journal has named Fremont Union High School District’s Science… ",
+    "category" : "Articles",
+    "post_url": "#"
+  },
+  {
+    "id" : "20",
+    "background": {
+      "image": "/wp-content/themes/wewp/templates/assets/images/homepage/generic-resource-card/cup.svg",
+      "alt": "Blog Post"
+    },
+    "post_date": "April 3, 2013",
+    "post_heading": "Fremont Union High School District Breaks Ground on New Educational Options Buildings and Opens New High School… ",
+    "post_blurb": "Classroom Multiplex Utilizing Innovative Building Solution Folia Design-Build Team Blach Construction and Quattrocchi Kwok Architects Invented Folia to Efficiently Deliver Quality…",
+    "category" : "Press Releases",
+    "post_url": "#"
+  },
+  {
+    "id" : "21",
+    "background": {
+      "image": "/wp-content/themes/wewp/templates/assets/images/homepage/generic-resource-card/building_dr.jpg",
+      "alt": "Blog Post"
+    },
+    "post_date": "March 18, 2013",
+    "post_heading": "Blach’s Folia Complex at Cupertino High School Wins Innovation Award from Silicon Valley Business Journal",
+    "post_blurb": "With its project partners, Blach is… proud to announce that the Silicon Valley Business Journal has named Fremont Union High School District’s Science… ",
+    "category" : "Articles",
+    "post_url": "#"
+  },
+  {
+    "id" : "11",
+    "background": {
+      "image": "/wp-content/themes/wewp/templates/assets/images/homepage/generic-resource-card/cup.svg",
+      "alt": "Blog Post"
+    },
+    "post_date": "November 3, 2012",
+    "post_heading": "Awards title lorem ipsum dolor sit amet et consecteur",
+    "post_blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel nibh sit amet nunc tristique interdum id ac dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel nibh sit amet nunc tristique interdum id. ",
+    "category" : "Press Releases",
+    "post_url": "#"
+  },
+  {
+    "id" : "10",
+    "background": {
+      "image": "/wp-content/themes/wewp/templates/assets/images/homepage/generic-resource-card/building_with_triangle.jpg",
+      "alt": "Blog Post"
+    },
+    "post_date": "OCTOBER 18, 2012",
+    "post_heading": "News title lorem ipsum dolor sit amet et consecteur",
+    "post_blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel nibh sit amet nunc tristique interdum id ac dui.",
+    "category" : "Articles",
+    "post_url": "#"
+  },
+  {
+    "id" : "23",
+    "background": {
+      "image": "/wp-content/themes/wewp/templates/assets/images/homepage/generic-resource-card/cup.svg",
+      "alt": "Blog Post"
+    },
+    "post_date": "Augest 26, 2012",
+    "post_heading": "Awards title lorem ipsum dolor sit amet et consecteur",
+    "post_blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel nibh sit amet nunc tristique interdum id ac dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel nibh sit amet nunc tristique interdum id. ",
+    "category" : "Press Releases",
+    "post_url": "#"
+  },
+  {
+    "id" : "22",
+    "background": {
+      "image": "/wp-content/themes/wewp/templates/assets/images/homepage/generic-resource-card/building_with_triangle.jpg",
+      "alt": "Blog Post"
+    },
+    "post_date": "April 18, 2012",
+    "post_heading": "News title lorem ipsum dolor sit amet et consecteur",
+    "post_blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel nibh sit amet nunc tristique interdum id ac dui.",
+    "category" : "Articles",
+    "post_url": "#"
+  }
+]
